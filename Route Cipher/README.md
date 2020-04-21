@@ -28,3 +28,5 @@ then place the ciphertext letters in the grid following the route specified.
 For example, to decrypt the ciphertext **"TIEIXTXXEAHSIHSPNTLT"** with the route spiral inwards
 counterclockwise from the top right, with a grid width of 4, we follow the process shown above to obtain
 the text **THISISTHEPLAINTEXT**.
+
+**For the sake of showing the algorithm I am going to use only arrays**
